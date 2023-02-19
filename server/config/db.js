@@ -1,5 +1,5 @@
 module.exports = 
 {
     //"URI":"mongodb://127.0.0.1/contacts"
-    "URI":"mongodb+srv://Arjen:<6D9lukYFyINH868e>@mongodbserver.vuncwmt.mongodb.net/contact?retryWrites=true&w=majority"
+    "URI":"mongodb+srv://mohamadhejazi:O56EmNjd0EcvYXY8@clusterassignment2.polewsy.mongodb.net/contact?retryWrites=true&w=majority"
 }
